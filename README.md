@@ -2,7 +2,7 @@
 
 **Java Backend Developer · Mumbai, India**
 
-BSc IT student (2029 Grad.) passionate about building backends that actually work. I focus on Java & Spring Boot — REST APIs, JPA/Hibernate, Spring Security, etc — and I'm currently working on a hospital management system. Always learning, always shipping.
+BSc IT student (2029 Grad.) passionate about building backends that actually work. I focus on Java & Spring Boot, REST APIs, JPA/Hibernate, Spring Security, etc and I'm currently working on a hospital management system. Always learning, always shipping.
 
 ---
 
@@ -33,7 +33,7 @@ JWT-secured note-taking app using Spring Boot + MongoDB. Explores NoSQL patterns
 
 ## 🔭 Right now
 
-- 📖 Working through Spring Boot deep internals - Depth matters.
+- 📖 Working through Spring Boot deep internals, Depth matters.
 - 🧮 Building a daily DSA habit.
 - 🎯 Targeting an internship or fresher backend developer role to grow in a professional environment
 

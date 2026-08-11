@@ -2,7 +2,7 @@
 
 **Java Backend Developer · Mumbai, India**
 
-BSc IT student (2029 Grad.) passionate about building backends that actually work. I focus on Java & Spring Boot, REST APIs, JPA/Hibernate, Spring Security, etc and I'm currently working on a hospital management system. Always learning, always shipping.
+BSc IT student (2029 Grad.) passionate about building backends that actually work. I focus on Java & Spring Boot, REST APIs, JPA/Hibernate, Spring Security, etc and I'm currently working on an Ai Powered Finance Dashboard. Always learning, always shipping.
 
 ---
 

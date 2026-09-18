@@ -23,9 +23,6 @@ BSc IT student (2029 Grad.) passionate about building backends that actually wor
 
 ## 📂 Projects
 
-### 🏥 Hospital Management System
-Collaborative backend built with Spring Boot, Spring Data JPA, and MySQL. Covers full entity relationships (bidirectional/unidirectional), DB auditing with Hibernate Envers, and global exception handling.
-
 ### 📝 OnlyNotes
 JWT-secured note-taking app using Spring Boot + MongoDB. Explores NoSQL patterns and token-based authentication.
 
